@@ -26,8 +26,8 @@ A Retrieval-Augmented Generation (RAG) chatbot built with **LlamaIndex** and the
     * Create a folder named `data/` and place your `harrypotter.pdf` file inside it.
     * Create a file named **`.env`** in the root directory and add your API key:
         
-        # .env
-        GEMINI_API_KEY="YOUR_API_KEY_HERE"
+# .env
+    GEMINI_API_KEY="YOUR_API_KEY_HERE"
         
 
 ## Usage
